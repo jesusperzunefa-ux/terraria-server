@@ -1,0 +1,8 @@
+world=./Worlds/MiMundoGitHub.wld
+autocreate=2
+worldname=MiMundoGitHub
+difficulty=3
+maxplayers=8
+password=
+port=7777
+motd=Servidor cargado desde mi repositorio de GitHub
