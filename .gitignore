@@ -1,25 +1,4 @@
-# --- Terraria Server ---
-# Ignorar copias de seguridad del mundo (ocupan mucho espacio)
-world/*.bak*
-world/*.wld.bak
-
-# Ignorar logs de actividad (cambian cada segundo)
-*.log
-logs/
-tshock/logs/
-
-# --- Seguridad y Privacidad ---
-# La base de datos de usuarios y permisos (NO la subas por seguridad)
-tshock/tshock.sqlite
-tshock/tshock.sqlite-journal
-tshock/backups/
-
-# Archivos de entorno con contraseñas
 .env
-
-# --- Sistema ---
-.DS_Store
-Thumbs.db
-
-# OPCIONAL: Si tu mundo (.wld) pesa más de 100MB, descomenta la línea de abajo:
-# world/*.wld
+world/*.wld
+world/*.bak
+tshock/logs/
