@@ -1,4 +1,4 @@
-world=./Worlds/MiMundoGitHub.wld
+world=/root/.local/share/Terraria/Worlds/MiMundoGitHub.wld
 autocreate=2
 worldname=MiMundoGitHub
 difficulty=3
